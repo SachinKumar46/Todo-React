@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 https://sachinrajput98.github.io/Todo-List-/
+the app in the development mode.
+Open http://localhost:3000
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
